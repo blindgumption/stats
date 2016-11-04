@@ -8,7 +8,5 @@
   },
   "author": "Joel Dodson",
   "license": "ISC",
-  "dependencies": {
-    "lodash": "^4.16.6"
-  }
+  "dependencies": {}
 }
